@@ -85,3 +85,5 @@ For any suggestions or collaboration ideas, feel free to reach out:
 ## ⭐ Acknowledgment
 
 Inspired by real-world ride-sharing analytics and built as part of a data analysis learning initiative.
+## Screenshot
+Snapshot of dshboard.png
